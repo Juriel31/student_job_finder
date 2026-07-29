@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "452404f436d31a24",
+      "title": "LED drivers (electric two- & three-wheelers)",
+      "link": "https://www.infineon.com/application/automotive-led-drivers-light-electric-vehicles",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T21:38:06+00:00"
+    },
+    {
       "id": "150793ed693b88b6",
       "title": "Leistungen",
       "link": "https://www.teleconnect.de/leistungsangebot",
@@ -5576,20 +5590,6 @@
       "id": "091383251c88484e",
       "title": "EiceDRIVER™ isolated gate driver ICs for EV applications",
       "link": "https://www.infineon.com/products/power/gate-driver-ics/automotive/high-voltage-xev-applications",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "64a870970a6f97ea",
-      "title": "Motor gate drivers (< 100 V)",
-      "link": "https://www.infineon.com/products/power/gate-driver-ics/automotive/motor-gate-drivers",
       "source": "https://www.infineon.com",
       "company": "Infineon",
       "matched_keywords": [
