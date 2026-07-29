@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Job Watchtower</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --board-bg:#0B0E11;
+    --panel:#14181D;
+    --panel-raised:#1B2027;
+    --flap-amber:#F5C453;
+    --flap-amber-dim:#8A6E2E;
+    --signal-green:#3ECF8E;
+    --muted:#7A8699;
+    --alert-red:#E5484D;
+    --divider:#232830;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse at top, #12161c 0%, var(--board-bg) 55%);
+    color:var(--flap-amber);
+    font-family:'IBM Plex Mono', monospace;
+    min-height:100vh;
+    padding:32px 20px 60px;
+  }
+  .wrap{max-width:920px;margin:0 auto;}
+
+  header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:16px;
+    border-bottom:2px solid var(--divider);
+    padding-bottom:18px;
+    margin-bottom:22px;
+  }
+  h1{
+    font-family:'Oswald',sans-serif;
+    font-weight:700;
+    letter-spacing:0.08em;
+    font-size:clamp(28px,5vw,40px);
+    margin:0;
+    color:var(--flap-amber);
+    text-transform:uppercase;
+  }
+  .subtitle{
+    font-size:13px;
+    color:var(--muted);
+    margin-top:6px;
+    letter-spacing:0.02em;
+  }
+  .scan-block{text-align:right;}
+  .scan-label{
+    font-size:11px;
+    letter-spacing:0.12em;
+    color:var(--muted);
+    text-transform:uppercase;
+  }
+  .scan-clock{
+    font-size:26px;
+    font-weight:600;
+    color:var(--signal-green);
+    font-variant-numeric:tabular-nums;
+  }
+  .scan-clock.scanning{
+    animation:pulse 1s ease-in-out infinite;
+  }
+  @keyframes pulse{
+    0%,100%{opacity:1;}
+    50%{opacity:0.4;}
+  }
+
+  .toolbar{
+    display:flex;
+    gap:10px;
+    margin-bottom:12px;
+    flex-wrap:wrap;
+  }
+  .type-filters{
+    display:flex;
+    gap:8px;
+    margin-bottom:18px;
+    flex-wrap:wrap;
+  }
+  .chip{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    letter-spacing:0.03em;
+    color:var(--muted);
+    background:var(--panel);
+    border:1px solid var(--divider);
+    padding:7px 13px;
+    border-radius:20px;
+    cursor:pointer;
+    transition:border-color 0.15s, color 0.15s;
+  }
+  .chip:hover{color:var(--flap-amber);}
+  .chip.active{
+    color:#08130E;
+    background:var(--flap-amber);
+    border-color:var(--flap-amber);
+    font-weight:600;
+  }
+  .type-badge{
+    display:inline-block;
+    font-size:10px;
+    letter-spacing:0.05em;
+    text-transform:uppercase;
+    padding:2px 6px;
+    border-radius:2px;
+    margin-top:5px;
+  }
+  .type-badge.working_student{background:#22303B;color:#6FD6F5;}
+  .type-badge.internship{background:#332A1F;color:#F0B75B;}
+  .type-badge.full_time{background:#1E3327;color:var(--signal-green);}
+  .type-badge.unspecified{background:#262626;color:var(--muted);}
+  input[type="text"]{
+    flex:1;
+    min-width:220px;
+    background:var(--panel);
+    border:1px solid var(--divider);
+    color:var(--flap-amber);
+    font-family:'IBM Plex Mono', monospace;
+    font-size:14px;
+    padding:11px 14px;
+    border-radius:2px;
+    outline:none;
+  }
+  input[type="text"]::placeholder{color:var(--flap-amber-dim);}
+  input[type="text"]:focus{border-color:var(--flap-amber-dim);}
+
+  .board{
+    background:var(--panel);
+    border:1px solid var(--divider);
+    border-radius:3px;
+    overflow:hidden;
+  }
+  .board-head{
+    display:grid;
+    grid-template-columns: 92px 1fr 160px 60px;
+    gap:12px;
+    padding:10px 16px;
+    font-size:11px;
+    letter-spacing:0.1em;
+    color:var(--muted);
+    text-transform:uppercase;
+    border-bottom:1px solid var(--divider);
+  }
+  .row{
+    display:grid;
+    grid-template-columns: 92px 1fr 160px 60px;
+    gap:12px;
+    padding:14px 16px;
+    border-bottom:1px solid var(--divider);
+    align-items:start;
+    perspective:600px;
+  }
+  .row:last-child{border-bottom:none;}
+  .row .time{color:var(--muted);font-size:12px;padding-top:2px;}
+  .row .info a{
+    color:var(--flap-amber);
+    text-decoration:none;
+    font-size:14.5px;
+    line-height:1.4;
+  }
+  .row .info a:hover{color:var(--signal-green);text-decoration:underline;}
+  .row .meta{color:var(--muted);font-size:11.5px;margin-top:4px;}
+  .row .kw{
+    font-size:11px;
+    color:var(--signal-green);
+    align-self:start;
+    padding-top:2px;
+    word-break:break-word;
+  }
+  .row .badge{text-align:right;}
+  .new-tag{
+    font-size:10.5px;
+    font-weight:600;
+    color:#08130E;
+    background:var(--signal-green);
+    padding:3px 7px;
+    border-radius:2px;
+    letter-spacing:0.06em;
+  }
+
+  @keyframes flapIn{
+    0%{transform:rotateX(-90deg);opacity:0;}
+    60%{transform:rotateX(12deg);opacity:1;}
+    100%{transform:rotateX(0deg);opacity:1;}
+  }
+  .flap-in{
+    transform-origin:top center;
+    animation:flapIn 0.5s ease-out both;
+  }
+
+  .empty{
+    padding:40px 20px;
+    text-align:center;
+    color:var(--muted);
+    font-size:13.5px;
+    line-height:1.7;
+  }
+  .empty strong{color:var(--flap-amber);}
+
+  footer{
+    margin-top:22px;
+    font-size:11.5px;
+    color:var(--muted);
+    display:flex;
+    flex-wrap:wrap;
+    gap:14px;
+    align-items:center;
+  }
+  .src{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    background:var(--panel);
+    border:1px solid var(--divider);
+    padding:5px 10px;
+    border-radius:2px;
+  }
+  .dot{width:7px;height:7px;border-radius:50%;flex:none;}
+  .dot.ok{background:var(--signal-green);}
+  .dot.err{background:var(--alert-red);}
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Job Watchtower</h1>
+        <div class="subtitle" id="tracking-line">tracking sources…</div>
+      </div>
+      <div class="scan-block">
+        <div class="scan-label">Next scan</div>
+        <div class="scan-clock" id="clock">--:--:--</div>
+      </div>
+    </header>
+
+    <div class="toolbar">
+      <input type="text" id="filter" placeholder="Filter by title, keyword, or company…" />
+    </div>
+    <div class="type-filters" id="type-filters">
+      <button class="chip active" data-type="all">All</button>
+      <button class="chip" data-type="working_student">Working student</button>
+      <button class="chip" data-type="internship">Internship</button>
+      <button class="chip" data-type="full_time">Full time</button>
+      <button class="chip" data-type="unspecified">Unspecified</button>
+    </div>
+
+    <div class="board">
+      <div class="board-head">
+        <div>Time</div>
+        <div>Posting</div>
+        <div>Matched on</div>
+        <div></div>
+      </div>
+      <div id="rows"></div>
+      <div class="empty" id="empty-state" style="display:none;">
+        <strong>No arrivals yet.</strong><br/>
+        Once you add portals to <code>config/sources.csv</code> and the scheduled scan runs,
+        matching postings will show up here — usually within 15 minutes.
+      </div>
+    </div>
+
+    <footer id="status-strip"></footer>
+  </div>
+
+<script>
+const SCAN_INTERVAL_MIN = 15;
+let allItems = [];
+let newIds = new Set();
+let activeType = 'all';
+
+const TYPE_LABELS = {
+  working_student: 'Working student',
+  internship: 'Internship',
+  full_time: 'Full time',
+  unspecified: 'Unspecified',
+};
+
+function timeAgo(iso){
+  if(!iso) return '—';
+  const diffMs = Date.now() - new Date(iso).getTime();
+  const mins = Math.round(diffMs/60000);
+  if(mins < 1) return 'just now';
+  if(mins < 60) return mins + 'm ago';
+  const hrs = Math.round(mins/60);
+  if(hrs < 24) return hrs + 'h ago';
+  return Math.round(hrs/24) + 'd ago';
+}
+
+function fmtTime(iso){
+  if(!iso) return '--:--';
+  const d = new Date(iso);
+  return d.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+}
+
+function hostOf(url){
+  try{ return new URL(url).hostname.replace(/^www\./,''); }
+  catch(e){ return url; }
+}
+
+function render(){
+  const q = document.getElementById('filter').value.trim().toLowerCase();
+  const rowsEl = document.getElementById('rows');
+  const emptyEl = document.getElementById('empty-state');
+  rowsEl.innerHTML = '';
+
+  const filtered = allItems.filter(item=>{
+    if(activeType !== 'all' && !(item.job_types || []).includes(activeType)) return false;
+    if(!q) return true;
+    const hay = (item.title + ' ' + item.matched_keywords.join(' ') + ' ' +
+                 (item.company || '') + ' ' + hostOf(item.source)).toLowerCase();
+    return hay.includes(q);
+  });
+
+  if(filtered.length === 0){
+    emptyEl.style.display = 'block';
+    emptyEl.innerHTML = allItems.length === 0
+      ? '<strong>No arrivals yet.</strong><br/>Once you add portals to <code>config/sources.csv</code> and the scheduled scan runs, matching postings will show up here — usually within 15 minutes.'
+      : '<strong>No matches for that filter.</strong>';
+    return;
+  }
+  emptyEl.style.display = 'none';
+
+  filtered.forEach((item, idx)=>{
+    const row = document.createElement('div');
+    row.className = 'row';
+    if(newIds.has(item.id)){
+      row.classList.add('flap-in');
+      row.style.animationDelay = (idx * 0.04) + 's';
+    }
+    const jobTypes = item.job_types && item.job_types.length ? item.job_types : ['unspecified'];
+    const typeBadges = jobTypes.map(t=>`<span class="type-badge ${t}">${TYPE_LABELS[t] || t}</span>`).join(' ');
+    const companyLabel = item.company ? item.company : hostOf(item.source);
+    row.innerHTML = `
+      <div class="time">${fmtTime(item.first_seen)}</div>
+      <div class="info">
+        <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+        <div class="meta">${companyLabel} · ${timeAgo(item.first_seen)}</div>
+        <div>${typeBadges}</div>
+      </div>
+      <div class="kw">${item.matched_keywords.filter(k=>k!=='(any)').join(', ')}</div>
+      <div class="badge">${newIds.has(item.id) ? '<span class="new-tag">NEW</span>' : ''}</div>
+    `;
+    rowsEl.appendChild(row);
+  });
+}
+
+function renderStatus(meta){
+  const strip = document.getElementById('status-strip');
+  strip.innerHTML = '';
+  (meta.sources || []).forEach(s=>{
+    const el = document.createElement('div');
+    el.className = 'src';
+    const label = s.company ? s.company : hostOf(s.url);
+    el.innerHTML = `<span class="dot ${s.ok ? 'ok' : 'err'}"></span>${label} · ${timeAgo(s.checked_at)}`;
+    if(!s.ok && s.error){ el.title = s.error; }
+    strip.appendChild(el);
+  });
+  document.getElementById('tracking-line').textContent =
+    (meta.sources || []).length
+      ? `tracking ${meta.sources.length} portal${meta.sources.length===1?'':'s'} · last scan ${timeAgo(meta.last_run)}`
+      : 'no portals configured yet';
+}
+
+let nextScanAt = null;
+function tickClock(){
+  const clockEl = document.getElementById('clock');
+  if(!nextScanAt){ clockEl.textContent = '--:--:--'; return; }
+  const diff = nextScanAt.getTime() - Date.now();
+  if(diff <= 0){
+    clockEl.textContent = 'scanning…';
+    clockEl.classList.add('scanning');
+    return;
+  }
+  clockEl.classList.remove('scanning');
+  const totalSec = Math.floor(diff/1000);
+  const m = Math.floor(totalSec/60).toString().padStart(2,'0');
+  const s = (totalSec%60).toString().padStart(2,'0');
+  clockEl.textContent = `00:${m}:${s}`;
+}
+
+async function loadData(){
+  try{
+    const bust = Date.now();
+    const [matchesRes, metaRes] = await Promise.all([
+      fetch(`data/matches.json?t=${bust}`),
+      fetch(`data/run_meta.json?t=${bust}`)
+    ]);
+    const matches = await matchesRes.json();
+    const meta = await metaRes.json();
+
+    allItems = matches.items || [];
+    newIds = new Set(meta.new_ids || []);
+
+    if(meta.last_run){
+      nextScanAt = new Date(new Date(meta.last_run).getTime() + SCAN_INTERVAL_MIN*60000);
+    }
+
+    render();
+    renderStatus(meta);
+  }catch(e){
+    console.error('Failed to load job data', e);
+  }
+}
+
+document.getElementById('filter').addEventListener('input', render);
+
+document.getElementById('type-filters').addEventListener('click', (e)=>{
+  const btn = e.target.closest('.chip');
+  if(!btn) return;
+  activeType = btn.dataset.type;
+  document.querySelectorAll('#type-filters .chip').forEach(c=>c.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+});
+
+loadData();
+setInterval(loadData, 60000);   // pick up new data every minute
+setInterval(tickClock, 1000);
+</script>
+</body>
+</html>
