@@ -1,3 +1,5604 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "452404f436d31a24",
+      "title": "LED drivers (electric two- & three-wheelers)",
+      "link": "https://www.infineon.com/application/automotive-led-drivers-light-electric-vehicles",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T21:38:06+00:00"
+    },
+    {
+      "id": "150793ed693b88b6",
+      "title": "Leistungen",
+      "link": "https://www.teleconnect.de/leistungsangebot",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "69c05a9b6a54b135",
+      "title": "Hardwareentwicklung",
+      "link": "javascript:;",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "efa3d85bfbc76b6f",
+      "title": "Hardwareentwicklung",
+      "link": "https://www.teleconnect.de/leistungsangebot/hardwareentwicklung",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "336bc1841c030bf3",
+      "title": "FPGA Design",
+      "link": "https://www.teleconnect.de/leistungsangebot/fpga-design",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "c3bbcb3ba6ba85aa",
+      "title": "Leiterplattendesign",
+      "link": "https://www.teleconnect.de/leistungsangebot/leiterplattendesign",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "70494427b81769f6",
+      "title": "Firmwareentwicklung",
+      "link": "https://www.teleconnect.de/leistungsangebot/firmwareentwicklung",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "0641bfe2a33b4029",
+      "title": "Optische Konformitätstests",
+      "link": "https://www.teleconnect.de/leistungsangebot/optische-konformitätstests",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "ba7c0a135c09c9cd",
+      "title": "Produkt Security",
+      "link": "https://www.teleconnect.de/produkt-security",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "cd01b444c36d499d",
+      "title": "Referenzdesigns",
+      "link": "https://www.teleconnect.de/leistungsangebot/referenzdesigns",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "84cc87d453a17acb",
+      "title": "Produkte",
+      "link": "https://www.teleconnect.de/produkte",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "f52e76a3157f2231",
+      "title": "Startup Support",
+      "link": "https://www.teleconnect.de/leistungsangebot/startup",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "7e87de357a81bea4",
+      "title": "Teleconnect",
+      "link": "https://www.teleconnect.de/unternehmen",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "0c8124fa69317a84",
+      "title": "Unsere Geschichte",
+      "link": "https://www.teleconnect.de/teleconnect/geschichte",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "f0b3fa0d9558f6a9",
+      "title": "Qualität & Nachhaltigkeit",
+      "link": "https://www.teleconnect.de/teleconnect/qualität-und-nachhaltigkeit",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "05bf8341bdb62136",
+      "title": "Venture Studio by Teleconnect",
+      "link": "https://www.teleconnect.de/teleconnect/venture-studio",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "c3979064366df5c7",
+      "title": "Technologien",
+      "link": "https://www.teleconnect.de/lernen/technologien",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "02638154d3922a1d",
+      "title": "Single Pair Ethernet",
+      "link": "https://www.teleconnect.de/technologien-spe",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "36777f8f04134a38",
+      "title": "EtherCAT",
+      "link": "https://www.teleconnect.de/lernen/technologien/ethercat",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "208cff7f3765aaa7",
+      "title": "Veröffentlichungen",
+      "link": "https://www.teleconnect.de/publikationen",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "93246decb3e92e42",
+      "title": "Forschung",
+      "link": "https://www.teleconnect.de/lernen/forschung-foerderung",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "48d6cf8ccef6e73c",
+      "title": "Karriere",
+      "link": "https://www.teleconnect.de/jobs-karriere",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "cc35f33bfb7f76f6",
+      "title": "Termin buchen",
+      "link": "https://www.teleconnect.de/termin-teleconnect?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "7074ece7ed1d109e",
+      "title": "Hardware",
+      "link": "https://www.teleconnect.de/en/services/hardware-development?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "9ba4a4e32c59aae8",
+      "title": "Firmware",
+      "link": "https://www.teleconnect.de/leistungsangebot/firmwareentwicklung?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "1025aba5afba51c9",
+      "title": "Produkte",
+      "link": "https://www.teleconnect.de/produkte?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "eca76387aaa19ec4",
+      "title": "weitere Leistungen",
+      "link": "https://www.teleconnect.de/leistungsangebot?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "f1bbea693f6a2f8a",
+      "title": "Kostenloses Erstgespräch buchen!",
+      "link": "https://www.teleconnect.de/kontakt?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "cc2e637b5ea7e7f5",
+      "title": "PCB Design Abo Kapazitäten managen",
+      "link": "https://www.teleconnect.de/pcb-layout-abo?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "5d47d79f24cd74f3",
+      "title": "Lastenheft Risiken minimieren",
+      "link": "https://www.teleconnect.de/lastenhefte?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "1234c6097e4f9e9a",
+      "title": "Bedrohungsanalyse Threat Modeling (IEC 62443-4-2)",
+      "link": "https://www.teleconnect.de/bedrohungsanalyse-threat-modeling?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "65e8a013ceacb80c",
+      "title": "Produktsicherheitsaudit Audit nach IEC 62443-2",
+      "link": "https://www.teleconnect.de/produktsicherheitsaudit?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "06445d3d82abd0b0",
+      "title": "Referenzprojekte",
+      "link": "https://www.teleconnect.de/lernen/referenzprojekte?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "027588b162c7db4f",
+      "title": "weitere Blogposts",
+      "link": "https://www.teleconnect.de/blog?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "1731d26917596180",
+      "title": "Industrielle Kommunikationshardware in 2026 verstehen",
+      "link": "https://www.teleconnect.de/blog/industrielle-kommunikationshardware-in-2026-verstehen?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "09c65f06c3e45a01",
+      "title": "Rüdiger Klein Juli 29, 2026",
+      "link": "https://www.teleconnect.de/blog/author/ruedi-klein?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "6703b670a5cf991a",
+      "title": "Kommunikationshardware zur Serie: Termine und Freigaben",
+      "link": "https://www.teleconnect.de/blog/kommunikationshardware-zur-serie-termine-und-freigaben?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "c311adcf8d7b228b",
+      "title": "Rüdiger Klein Juli 28, 2026",
+      "link": "https://www.teleconnect.de/blog/author/ruedi-klein?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "19e4228158774830",
+      "title": "Carrier-Board-Design für lötbare Module: Footprint, Reflow und Thermik",
+      "link": "https://www.teleconnect.de/blog/carrier-board-design-f%C3%BCr-l%C3%B6tbare-module-footprint-reflow-und-thermik?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "32d69049e77f9bba",
+      "title": "Collin Contentai Juli 28, 2026",
+      "link": "https://www.teleconnect.de/blog/author/collin-contentai?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "01678d2277f491e6",
+      "title": "OSM-Module mit i.MX 91 & i.MX 93: 13 Module im Vergleich (2026)",
+      "link": "https://www.teleconnect.de/blog/osm-module-mit-i.mx-91-i.mx-93-13-module-im-vergleich-2026?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "ea0915ba21ec062e",
+      "title": "Collin Contentai Juli 26, 2026",
+      "link": "https://www.teleconnect.de/blog/author/collin-contentai?hsLang=de",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "3e6c0ebfb528c981",
+      "title": "Impressum",
+      "link": "https://www.teleconnect.de/impressum",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "5a984d063fb02d5e",
+      "title": "Datenschutz",
+      "link": "https://www.teleconnect.de/datenschutzerklärung",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "343c4b1571d26174",
+      "title": "Rechtliche Hinweise",
+      "link": "https://www.teleconnect.de/rechtliche-hinweise",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "40bb70b628474b35",
+      "title": "Follow us on LinkedIn",
+      "link": "https://www.linkedin.com/company/teleconnect-gmbh/",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "34e6414172eccd51",
+      "title": "Follow us on Facebook",
+      "link": "https://www.xing.com/pages/teleconnectgmbh",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "aac29920d74c02a7",
+      "title": "Follow us on Facebook",
+      "link": "https://www.kununu.com/de/teleconnect1",
+      "source": "https://www.teleconnect.de/",
+      "company": "Teleconnect",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:09+00:00"
+    },
+    {
+      "id": "63ee938b8d292c9a",
+      "title": "Main menu",
+      "link": "https://www.infineon.com",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "37067ee715ea4069",
+      "title": "Products",
+      "link": "https://www.infineon.com",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "2a17921592993909",
+      "title": "Applications",
+      "link": "https://www.infineon.com",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ee1fbc2b096d1db7",
+      "title": "Design Resources",
+      "link": "https://www.infineon.com",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "33d37be81a81ef8d",
+      "title": "Support & Training",
+      "link": "https://www.infineon.com",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5c3c993e4899d745",
+      "title": "Battery management ICs",
+      "link": "https://www.infineon.com/products/battery-management-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d6a5af5e7082350e",
+      "title": "Evaluation Boards",
+      "link": "https://www.infineon.com/products/evaluation-boards",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "7bff7d7d145e0547",
+      "title": "Packages",
+      "link": "https://www.infineon.com/package-overview",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "bfcd6f0f0993b904",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/asic",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "228d3c469faa75b1",
+      "title": "ASIC Solutions",
+      "link": "https://www.infineon.com/products/asic/asic",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "25d43280c55b9087",
+      "title": "SoC & SiP & FPGA",
+      "link": "https://www.infineon.com/products/asic/soc-sip-fpga",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "df9f5174200e5fc7",
+      "title": "Clocks and timing solutions",
+      "link": "https://www.infineon.com/products/clocks-timing-solutions",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1e9ecb31caf76585",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/clocks-timing-solutions",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "128e2f70fd284c83",
+      "title": "CYPRESS™ Buffers",
+      "link": "https://www.infineon.com/products/clocks-timing-solutions/buffers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "886ac34e24a6db5e",
+      "title": "CYPRESS™ Clock generators",
+      "link": "https://www.infineon.com/products/clocks-timing-solutions/clock-generators",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "bce35c44273a7452",
+      "title": "CYPRESS™ Oscillators",
+      "link": "https://www.infineon.com/products/clocks-timing-solutions/oscillators",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3546ba1acd1db524",
+      "title": "ESD and surge protection devices",
+      "link": "https://www.infineon.com/products/esd-surge-protection",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9041e34700d51ceb",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/esd-surge-protection",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3dd8afe8b72c368c",
+      "title": "Surge protection devices",
+      "link": "https://www.infineon.com/products/esd-surge-protection/surge-protection-devices",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4fba77b36cc5f0a0",
+      "title": "Low-capacitance ESD protection devices",
+      "link": "https://www.infineon.com/products/esd-surge-protection/low-capacitance-esd-devices",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "003d427ccffd7b34",
+      "title": "Multi-purpose ESD protection devices",
+      "link": "https://www.infineon.com/products/esd-surge-protection/multi-purpose-esd-devices",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "43ef032f15d7bd90",
+      "title": "High-linearity ESD protection devices",
+      "link": "https://www.infineon.com/products/esd-surge-protection/high-linearity-esd-devices",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5a4449ac5f6d8a9b",
+      "title": "Automotive Ethernet",
+      "link": "https://www.infineon.com/products/ethernet",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c0cb5dbc27b4560c",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/ethernet",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4a63f7355f361638",
+      "title": "High reliability",
+      "link": "https://www.infineon.com/products/high-reliability",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5cd6b29b6d310040",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ffd7e6a0a15290ae",
+      "title": "Isolation",
+      "link": "https://www.infineon.com/products/isolation",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6ddf5b544c1b07f8",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/isolation",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a57529ded0529267",
+      "title": "Digital isolators",
+      "link": "https://www.infineon.com/products/isolation/digital-isolators",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "981b1c8f2a11a3af",
+      "title": "Memories",
+      "link": "https://www.infineon.com/products/memories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0b7736a9d2e1c4e1",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e81ae139696528f5",
+      "title": "Embedded flash IP solutions",
+      "link": "https://www.infineon.com/products/memories/embedded-flash-ip-solutions",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4160295cfc6744b2",
+      "title": "Flash+RAM MCP solutions",
+      "link": "https://www.infineon.com/products/memories/flash-plus-ram-mcp-solutions",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "019dd02a76156217",
+      "title": "nvSRAM (non-volatile SRAM)",
+      "link": "https://www.infineon.com/products/memories/nvsram-non-volatile-sram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6ba8cf8c30b39a69",
+      "title": "PSRAM – Pseudostatic RAM",
+      "link": "https://www.infineon.com/products/memories/psram-pseudostatic-dram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "979001b85517cf7e",
+      "title": "Wafer and die memory solutions",
+      "link": "https://www.infineon.com/products/memories/wafer-die-memory-solutions",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "29a8ca9dc1f32558",
+      "title": "Microcontroller",
+      "link": "https://www.infineon.com/products/microcontroller",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5cf77f9e24c1a361",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3db04b121bf7ebce",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "115ca57f92f91409",
+      "title": "Protection and monitoring ICs",
+      "link": "https://www.infineon.com/products/power/protection-and-monitoring-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "53147be96f71cd7d",
+      "title": "Wireless charging ICs",
+      "link": "https://www.infineon.com/products/power/wireless-charging-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0fd9d83ca482825a",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/rf",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3c584b60a65bcb28",
+      "title": "Antenna cross switches",
+      "link": "https://www.infineon.com/products/rf/antenna-cross-switches",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "43c75d728e32ed93",
+      "title": "Antenna tuners",
+      "link": "https://www.infineon.com/products/rf/antenna-tuners",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b7fb2c6a252c5ac8",
+      "title": "Bias and control",
+      "link": "https://www.infineon.com/products/rf/bias-and-control",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a6cea515e68e8a38",
+      "title": "Driver amplifiers",
+      "link": "https://www.infineon.com/products/rf/driver-amplifiers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "eb8a2bd19adc98a8",
+      "title": "RF switches",
+      "link": "https://www.infineon.com/products/rf/rf-switches-spxt-dpxt",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "01370579fd294b68",
+      "title": "Wireless control receiver",
+      "link": "https://www.infineon.com/products/rf/wireless-control-receiver",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "073ad447d1dd0f34",
+      "title": "Security and smart card solutions",
+      "link": "https://www.infineon.com/products/security-smart-card-solutions",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d7db0332a38c5efc",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/security-smart-card-solutions",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "10ba540f1b4b47f4",
+      "title": "Calypso® products",
+      "link": "https://www.infineon.com/products/security-smart-card-solutions/calypso-products",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5baf634f967d6986",
+      "title": "CIPURSE™ products",
+      "link": "https://www.infineon.com/products/security-smart-card-solutions/cipurse-products",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b6038a126153b454",
+      "title": "Sensor technology",
+      "link": "https://www.infineon.com/products/sensor",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "aa02ed1a169247f0",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/sensor",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "7dfb6af909588f89",
+      "title": "Current sensors",
+      "link": "https://www.infineon.com/products/sensor/current-sensors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ac7d8f6bfb1f2600",
+      "title": "Inductive position sensors",
+      "link": "https://www.infineon.com/products/sensor/inductive-position-sensors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d952fa354258fd76",
+      "title": "MEMS microphones",
+      "link": "https://www.infineon.com/products/sensor/mems-microphones",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f5550fa6d9c60b16",
+      "title": "Capacitive sensors",
+      "link": "https://www.infineon.com/products/sensor/capacitive-sensors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c9826d8f1e8951dd",
+      "title": "Temperature sensors",
+      "link": "https://www.infineon.com/products/sensor/temperature-sensors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c2c98b2011a7123a",
+      "title": "Battery sensors",
+      "link": "https://www.infineon.com/products/sensor/battery-sensors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f223de63bd418e0b",
+      "title": "Digital X-ray",
+      "link": "https://www.infineon.com/products/sensor/digital-x-ray",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "202b0140b189dcb5",
+      "title": "Computed tomography",
+      "link": "https://www.infineon.com/products/sensor/computed-tomography",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a5e8efc47a77cf8d",
+      "title": "Sensor interface ASICs",
+      "link": "https://www.infineon.com/products/sensor/sensor-interface-asics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "64390cbb5d5fd712",
+      "title": "Small signal transistors and diodes",
+      "link": "https://www.infineon.com/products/small-signal-transistors-diodes",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "56906f651c965546",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/small-signal-transistors-diodes",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "65080cc7b8606864",
+      "title": "Small signal/small power MOSFET",
+      "link": "https://www.infineon.com/products/power/mosfet/small-signal-small-power",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "aa8f1a05ed007e7d",
+      "title": "Transceivers",
+      "link": "https://www.infineon.com/products/transceivers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e3ad9ba9c72f8e39",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/transceivers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "62c39b9ec8e439c1",
+      "title": "Control communication",
+      "link": "https://www.infineon.com/products/transceivers/control-communications",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6089f46de090a8fe",
+      "title": "Powerline communications",
+      "link": "https://www.infineon.com/products/transceivers/powerline-communications",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "72f9e5d7fbd8c7ba",
+      "title": "Universal Serial Bus (USB)",
+      "link": "https://www.infineon.com/products/universal-serial-bus",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4025a026609b0c02",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/universal-serial-bus",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "00f58e0bd7830c8a",
+      "title": "USB-C charging port controllers",
+      "link": "https://www.infineon.com/products/universal-serial-bus/usb-c-charging-port-controllers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "61facced3bead6af",
+      "title": "Wireless connectivity",
+      "link": "https://www.infineon.com/products/wireless-connectivity",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "315dcd75d1059cf6",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/wireless-connectivity",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0c89d97ce63daa4f",
+      "title": "AIROC™ Automotive wireless",
+      "link": "https://www.infineon.com/products/wireless-connectivity/airoc-automotive-wireless",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f929b89dd5266653",
+      "title": "AIROC™ connected MCU",
+      "link": "https://www.infineon.com/products/wireless-connectivity/airoc-connected-mcu",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c470ec37560fcab9",
+      "title": "Automotive Ethernet PHY for in-vehicle networking",
+      "link": "https://www.infineon.com/products/ethernet/automotive-phy",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "7e0e205b0e597e06",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/ethernet/automotive-phy",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "95bb9dd612383c5e",
+      "title": "88EA1512",
+      "link": "https://www.infineon.com/products/ethernet/automotive-phy/88ea1512",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0995a7b0786aafe4",
+      "title": "88Q120xM",
+      "link": "https://www.infineon.com/products/ethernet/automotive-phy/88q120xm",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e00106819e73942f",
+      "title": "88Q222xM",
+      "link": "https://www.infineon.com/products/ethernet/automotive-phy/88q222xm",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3daa85ae64b7478d",
+      "title": "Automotive Ethernet Switches for in-vehicle networking",
+      "link": "https://www.infineon.com/products/ethernet/automotive-switch",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f1f2bbd02bb50d74",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/ethernet/automotive-switch",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "8a12bb748b2c4d54",
+      "title": "88EA6321",
+      "link": "https://www.infineon.com/products/ethernet/automotive-switch/88ea6321",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "cbfeaabbe4751d65",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability/defense",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1fd8990a5038f51a",
+      "title": "Commercial off-the-shelf (COTs) memory portfolio",
+      "link": "https://www.infineon.com/products/high-reliability/defense/commercial-memories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "11005598637f9cdf",
+      "title": "Defense memory portfolio",
+      "link": "https://www.infineon.com/products/high-reliability/defense/hirel-memories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f4e723250ac03268",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability/defense/power",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "529655a6d5aee19b",
+      "title": "High-reliability power ICs",
+      "link": "https://www.infineon.com/products/high-reliability/defense/power/hirel-power-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d8ddee48031d9ce5",
+      "title": "High-reliability power MOSFETs",
+      "link": "https://www.infineon.com/products/high-reliability/defense/power/hirel-mosfets",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6480e61814afc0ef",
+      "title": "High-reliability custom services",
+      "link": "https://www.infineon.com/products/high-reliability/custom-services",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "97dfe73b2a78bdc5",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability/custom-services",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1d531391f4c71a2c",
+      "title": "High-reliability die and wafer sales",
+      "link": "https://www.infineon.com/products/high-reliability/custom-services/die-wafer-sales",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d8be60cf8c58aca3",
+      "title": "High-reliability up-screening services",
+      "link": "https://www.infineon.com/products/high-reliability/custom-services/upscreening",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d16eae47f8986ae7",
+      "title": "RF foundry services",
+      "link": "https://www.infineon.com/products/high-reliability/custom-services/rf-foundry",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "70bf10c35427f9f2",
+      "title": "Supply longevity program",
+      "link": "https://www.infineon.com/products/high-reliability/custom-services/supply-longevity",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "33c26b2b8395d34f",
+      "title": "NewSpace",
+      "link": "https://www.infineon.com/products/high-reliability/new-space",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "fd8abc68badab455",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability/new-space",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e88fd6c3647ea8ae",
+      "title": "NewSpace memory portfolio",
+      "link": "https://www.infineon.com/products/high-reliability/new-space/memories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a0d7af24ed46a1c3",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability/new-space/power",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "01493b2f2d8c8829",
+      "title": "Rad tolerant MOSFETs",
+      "link": "https://www.infineon.com/products/high-reliability/new-space/power/rad-tolerant-mosfets",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0918f2249df6a297",
+      "title": "Rad tolerant ICs",
+      "link": "https://www.infineon.com/products/high-reliability/new-space/power/radiation-tolerant-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1dba17da83bb29e5",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability/space",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3ec52b6c8c23cc6d",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability/space/rad-hard-rf",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "93cf7079a61b00c6",
+      "title": "Rad hard RF bipolar transistors",
+      "link": "https://www.infineon.com/products/high-reliability/space/rad-hard-rf/hirel-silicon-bipolar-transistors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "7596088100cfe89f",
+      "title": "Rad hard silicon diodes",
+      "link": "https://www.infineon.com/products/high-reliability/space/rad-hard-rf/hirel-silicon-diodes",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "eec203c721d74a56",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/high-reliability/space/power",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "130e0ebb0ac4ca93",
+      "title": "Rad hard DC-DC converters",
+      "link": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-dc-dc-converters",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "231e380ce5565945",
+      "title": "Rad hard GaN",
+      "link": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-gan",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "bd1d54c5849435dc",
+      "title": "Rad hard MOSFETs",
+      "link": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-mosfets",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "8cc77aa00b6bad85",
+      "title": "Rad hard power ICs",
+      "link": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-power-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b3cd2cc256262dd0",
+      "title": "Rad hard solid-state relays",
+      "link": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-solid-state-relays",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c3e49bf172f15a0b",
+      "title": "Rad hard synchronous rectifiers",
+      "link": "https://www.infineon.com/products/high-reliability/space/power/rad-hard-synchronous-rectifiers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "cda396626b105cd7",
+      "title": "Schottkys and rectifiers",
+      "link": "https://www.infineon.com/products/high-reliability/space/power/schottkys-rectifiers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "630bf6b96b6e4d6e",
+      "title": "Space memory portfolio",
+      "link": "https://www.infineon.com/products/high-reliability/space/rad-hard-memories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c6776b6155654f4e",
+      "title": "Isolated industrial interface",
+      "link": "https://www.infineon.com/products/isolation/isolated-industrial-interface",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "15454ea9229fc399",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/isolation/isolated-industrial-interface",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d5f2256af03287f1",
+      "title": "ISOFACE™ digital input ICs",
+      "link": "https://www.infineon.com/products/isolation/isolated-industrial-interface/isoface-digital-input-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5acfb4d9072fc89f",
+      "title": "ISOFACE™ output switches",
+      "link": "https://www.infineon.com/products/isolation/isolated-industrial-interface/isoface-output-switches",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "986ddac8649c3bd3",
+      "title": "F-RAM (Ferroelectric RAM)",
+      "link": "https://www.infineon.com/products/memories/f-ram-ferroelectric-ram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "2697d44a999cdb16",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories/f-ram-ferroelectric-ram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "403cbcdbb6dc29d2",
+      "title": "EXCELON™ F-RAM",
+      "link": "https://www.infineon.com/products/memories/f-ram-ferroelectric-ram/excelon-f-ram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9b87fbad69e9e48d",
+      "title": "NOR flash",
+      "link": "https://www.infineon.com/products/memories/nor-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e07310c3571fcef7",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories/nor-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "2afd81d00b7417d7",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories/nor-flash/parallel",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "89404f6c3312baaf",
+      "title": "Burst mode",
+      "link": "https://www.infineon.com/products/memories/nor-flash/parallel/burst-mode",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "55d9d4d9c50ba1a4",
+      "title": "High-performance page mode",
+      "link": "https://www.infineon.com/products/memories/nor-flash/parallel/high-performance-page-mode",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e307700a858a7d3f",
+      "title": "Simultaneous Read/Write",
+      "link": "https://www.infineon.com/products/memories/nor-flash/parallel/simultaneous-read-write",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b7e8d660dd32f426",
+      "title": "Standard interface parallel flash",
+      "link": "https://www.infineon.com/products/memories/nor-flash/parallel/standard-interface",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "2e41a95ecb3734f9",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories/nor-flash/semper-nor-flash-family",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d1e1b211606793ed",
+      "title": "SEMPER™ Nano NOR flash",
+      "link": "https://www.infineon.com/products/memories/nor-flash/semper-nor-flash-family/semper-nano-nor-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1692aae6c0ec6b18",
+      "title": "SEMPER™ NOR flash",
+      "link": "https://www.infineon.com/products/memories/nor-flash/semper-nor-flash-family/semper-nor-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a5d698b038c13f4f",
+      "title": "SEMPER™ Secure NOR flash",
+      "link": "https://www.infineon.com/products/memories/nor-flash/semper-nor-flash-family/semper-secure-nor-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9124b123524f6e4a",
+      "title": "SEMPER™ X1 LPDDR flash",
+      "link": "https://www.infineon.com/products/memories/nor-flash/semper-x1-lpddr-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ec150fd3023c9c0a",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories/nor-flash/serial-nor-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "75a7f51ce2b03fa6",
+      "title": "Dual QSPI flash",
+      "link": "https://www.infineon.com/products/memories/nor-flash/serial-nor-flash/dual-qspi-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "fe7606eddf3c4115",
+      "title": "HYPERFLASH™",
+      "link": "https://www.infineon.com/products/memories/nor-flash/serial-nor-flash/hyperflash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "883b46d79b9cfb42",
+      "title": "Quad SPI flash",
+      "link": "https://www.infineon.com/products/memories/nor-flash/serial-nor-flash/quad-spi-flash",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0913077369e9a9ca",
+      "title": "Radiation hardened and high-reliability memories",
+      "link": "https://www.infineon.com/products/memories/radiation-hardened-high-reliability-memories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "796c95b75117860f",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories/radiation-hardened-high-reliability-memories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6b4d99bcd00c02a2",
+      "title": "SRAM (static RAM)",
+      "link": "https://www.infineon.com/products/memories/sram-static-ram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5672620643dff0dd",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories/sram-static-ram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "07146ff4859e6bf7",
+      "title": "Asynchronous SRAM",
+      "link": "https://www.infineon.com/products/memories/sram-static-ram/asynchronous-sram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "7fcb5530f391898d",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/memories/sram-static-ram/synchronous-sram",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ebfc88cc1c2578ab",
+      "title": "Dual data rate (DDR) sync SRAMs",
+      "link": "https://www.infineon.com/products/memories/sram-static-ram/synchronous-sram/ddr",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d93edaddfbba6fc7",
+      "title": "Quad data rate (QDR™) sync SRAMs",
+      "link": "https://www.infineon.com/products/memories/sram-static-ram/synchronous-sram/qdr",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "7f59d63f9a4722bd",
+      "title": "Synchronous SRAM with ECC",
+      "link": "https://www.infineon.com/products/memories/sram-static-ram/synchronous-sram/synchronous-sram-with-ecc",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9227fc0e78f47dd5",
+      "title": "AURIX™ TriCore™ MCUs",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1eea358afcf1d098",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9a848aa34ed35dca",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "648b35e6dcc11baa",
+      "title": "AURIX™ family – TC21xL",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc21xl",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f60b2fe4816147d6",
+      "title": "AURIX™ family – TC21xSC (wireless charging)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc21xsc",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "2a137f27872b31cf",
+      "title": "AURIX™ family – TC22xL",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc22xl",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "38a356711d7bdf17",
+      "title": "AURIX™ family – TC23xL",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc23xl",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1bee7778c005059b",
+      "title": "AURIX™ family – TC23xLA (ADAS)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc23xla-adas",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "dac8f1ad82872e78",
+      "title": "AURIX™ family – TC23xLX",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc23xlx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a2039cefd99cda8e",
+      "title": "AURIX™ family – TC264DA (ADAS)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc264da-adas",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a708f646b04a231c",
+      "title": "AURIX™ family – TC26xD",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc26xd",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "dc0d5e8397c657f3",
+      "title": "AURIX™ family – TC27xT",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc27xt",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "04bc55883429184d",
+      "title": "AURIX™ family – TC297TA (ADAS)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc297ta-adas",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ceaa808bf8c8a80b",
+      "title": "AURIX™ family – TC29xT",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc29xt",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "32e98f3ea410f307",
+      "title": "AURIX™ family – TC29xTT (ADAS)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc29xtt-adas",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "57ffe0f55af65197",
+      "title": "AURIX™ family – TC29xTX",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc29xtx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b16087cf54c56ded",
+      "title": "AURIX™ TC2x emulation devices",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc2xx/tc2xx-emulation-devices",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f899b6c9f6ef1dc9",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "784778cae7e01b20",
+      "title": "AURIX™ family - TC32xLP",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc32xlp",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f1313c702983e456",
+      "title": "AURIX™ family – TC33xDA",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc33xda",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b61c9128fbe7db3c",
+      "title": "AURIX™ family - TC33xLP",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc33xlp",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3b0923c6a1624fe0",
+      "title": "AURIX™ family – TC35xTA (ADAS)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc35xta-adas",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "72807972847840c2",
+      "title": "AURIX™ family – TC36xDP",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc36xdp",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4645f4ca19ac2d45",
+      "title": "AURIX™ family – TC37xTP",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc37xtp",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "507eff1b0550d171",
+      "title": "AURIX™ family – TC37xTX",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc37xtx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "fe564f3355fa9da7",
+      "title": "AURIX™ family – TC38xQP",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc38xqp",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0b5ca3fad27e0646",
+      "title": "AURIX™ family – TC39xXA (ADAS)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc39xxa-adas",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b962d13ceb94c36f",
+      "title": "TC39xXX/XP",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc39xxx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f267ae50b121b407",
+      "title": "AURIX™ family – TC3Ex",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc3ex",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "91cad5c508480d3d",
+      "title": "AURIX™ TC37xTE (emulation devices)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc37x-emulation-devices",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5b0fc92735007d02",
+      "title": "AURIX™ TC39xXE (emulation devices)",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc3xx/tc39x-emulation-devices",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b78126624f01cdc4",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc4x",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "28bc924e8b2a3dfe",
+      "title": "AURIX™ TC4Dx",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc4x/tc4dx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "97389297c6beb1eb",
+      "title": "AURIX™ TC48x",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc4x/tc48x",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "35a133ba7fde51e7",
+      "title": "AURIX™ TC45x",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc4x/tc45x",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f94abf3ab1e36320",
+      "title": "AURIX™ TC49x",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-tricore/aurix-tc4x/tc49x",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6ffaafbcda45eea6",
+      "title": "PSOC™ MCUs",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "cd1648e5c275d0cf",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c409f9d340709b3f",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "fca8d935b5e4845b",
+      "title": "32-bit PSOC™ analog coprocessor Arm® Cortex®-M0+ MCU",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/psoc-analog-coprocessor-m0-plus",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "fe664cf6b7898643",
+      "title": "PSOC™ 4 Bluetooth® LE MCU",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/ble-bluetooth-smart",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a0680c1055cf2b0d",
+      "title": "PSOC™ 4000 Family Series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/4000",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "bd79cc51f80da707",
+      "title": "PSOC™ 4100 - Intelligent analog",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/4100",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "67983a1da79c850d",
+      "title": "PSOC™ 4200 - Programmable digital",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/4200",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6382efe8da4a0010",
+      "title": "CAPSENSE™ MBR3",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu/capsense-mbr3",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "87df912a081e00cb",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-hv-m0",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "cc0d99cf53b1ab0f",
+      "title": "PSOC™ 4 HVMS",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-hv-m0/hv-ms",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ef805221639e2660",
+      "title": "PSOC™ 4 HVPA",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-hv-m0/hv-pa",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "50f9f5e68283ac0a",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "004c60bb452c66ef",
+      "title": "CY8C52LPxxx",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3/cy8c52lpxxx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a790431e45318fe8",
+      "title": "CY8C54LPxxx",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3/cy8c54lpxxx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c0777a7b5abcd50d",
+      "title": "CY8C56LPxxx",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3/cy8c56lpxxx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e9c0056465565670",
+      "title": "CY8C58LPxxx",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-5-lp-m3/cy8c58lpxxx",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "26e8ad0025b80045",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-6-m4-mcu",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ea9440b133d2f09b",
+      "title": "PSOC™ 61 - Entry-level",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-6-m4-mcu/psoc-61",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a1993c3964018884",
+      "title": "PSOC™ 62 - Performance",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-6-m4-mcu/psoc-62",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d0ba0f691b1ab0bd",
+      "title": "PSOC™ 63 Bluetooth® LE MCU",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-6-m4-mcu/psoc-63",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "587f74368cfcdd30",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-multitouch-m0",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "cbdad8a5eb3fc6a5",
+      "title": "PSOC™ Automotive Multitouch Gen6",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-multitouch-m0/gen6",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "318c326b471786c1",
+      "title": "PSOC™ Automotive Multitouch Gen7",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-multitouch-m0/gen7",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "22b448413b8bdd9e",
+      "title": "PSOC™ Automotive Multitouch Gen8",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-multitouch-m0/gen8",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "12977ccf5566b0a6",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-control-arm-cortex-m33-mcu",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0e6bda0f4ae0bf63",
+      "title": "PSOC™ Control C3 Entry Line",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-control-arm-cortex-m33-mcu/psoc-control-c3-entry-line",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "63d601fdc5253875",
+      "title": "PSOC™ Control C3 Main Line",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-control-arm-cortex-m33-mcu/psoc-control-c3-main-line",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c34dd5615facf2bd",
+      "title": "PSOC™ Control C3 Performance Line",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-control-arm-cortex-m33-mcu/psoc-control-c3-performance-line",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d67d0bbdaade0766",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "96aaa1c23f1a056c",
+      "title": "PSOC™ Automotive 4 L series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu/l-series",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1d97c645758befa2",
+      "title": "PSOC™ Automotive 4 M series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu/m-series",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "17e87d79c678356f",
+      "title": "PSOC™ Automotive 4 S series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu/s-series",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "8642f0dccf6c4984",
+      "title": "PSOC™ Automotive 4 series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/automotive-psoc-4-mcu/series",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b008a1e88de8e0bc",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "53ae122cc781b8a0",
+      "title": "PSOC™ Edge E81",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm/psoc-edge-e81",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9493fde3196bd3dd",
+      "title": "PSOC™ Edge E82",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm/psoc-edge-e82",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "dbce588f947ee413",
+      "title": "PSOC™ Edge E83",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm/psoc-edge-e83",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d42d0a2df494ff54",
+      "title": "PSOC™ Edge E84",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm/psoc-edge-e84",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "8ae6430b88a7da35",
+      "title": "PSOC™ Control C1 Arm® Cortex®-M0",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-control-c1",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b032676ac5c7c411",
+      "title": "TRAVEO™ T2G MCUs",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "348d089b7870af28",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "37b9995a617f7da2",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "7f494262077f3796",
+      "title": "TRAVEO™ T2G CYT2B6 series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt2b6",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c60f5b8cfe86bf7a",
+      "title": "TRAVEO™ T2G CYT2B7 series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt2b7",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e6884f4776d3678c",
+      "title": "TRAVEO™ T2G CYT2B9 series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt2b9",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0d5b2c008e66ad16",
+      "title": "TRAVEO™ T2G CYT2BL series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt2bl",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "be484d483ca33575",
+      "title": "TRAVEO™ T2G CYT3BB/CYT4BB series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt3bb-cyt4bb",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "52805e3367d34869",
+      "title": "TRAVEO™ T2G CYT4BF series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt4bf",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1717f37201bd6b14",
+      "title": "TRAVEO™ T2G CYT6BJ series",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-body/t2g-cyt6bj",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "12abdea04d843353",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-cluster",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "bc66d2a741377f19",
+      "title": "TRAVEO™ T2G CYT2CL",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-cluster/t2g-cyt2cl",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "74f867b683616051",
+      "title": "TRAVEO™ T2G CYT3DL",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-cluster/t2g-cyt3dl",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "59c2770dab0db544",
+      "title": "TRAVEO™ T2G CYT4DN",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-traveo-t2g-arm-cortex/for-cluster/t2g-cyt4dn",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "8adbf87fa9eda54e",
+      "title": "XMC™ MCUs",
+      "link": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e197005891b4ac6f",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f035840dabeff459",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc1000-m0",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "378c9e8cb40806b9",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "04d43ee849326fcd",
+      "title": "XMC4100/XMC4200",
+      "link": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc4000-m4/xmc4100-4200",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f5f4015b371e9716",
+      "title": "XMC5000 Industrial Microcontroller Arm® Cortex®-M4F",
+      "link": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc5000",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "510d411688fbf6bd",
+      "title": "32-bit XMC7000 Industrial Microcontroller Arm® Cortex®-M7",
+      "link": "https://www.infineon.com/products/microcontroller/32bit-industrial-arm-cortex-m/xmc7000-m7",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "53bf41294dfdfa88",
+      "title": "Legacy MCUs",
+      "link": "https://www.infineon.com/products/microcontroller/legacy",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5a53fd1c4373fc50",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/legacy",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ffa6f195c71d46ac",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/32-bit",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9cafc49115f7908d",
+      "title": "32-bit TRAVEO™ T1G Arm® Cortex® microcontroller",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/32-bit/traveo-t1g-automotive",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b96cac971db2311f",
+      "title": "C500 family",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/32-bit/c500-family",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "212d0f09561ec030",
+      "title": "XC166 family",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/32-bit/xc166-family",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b2be41c9db3fd9b4",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6ebb1d518c56c185",
+      "title": "XC2200 family (body)",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/xc2200-family-body",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "890a838d3c7248b5",
+      "title": "XC2300 family (safety)",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/xc2300-family-safety",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d0c44bc6368eba0e",
+      "title": "XC2700 family (powertrain)",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/xc2700-family-powertrain",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d3c6ffe804b6a116",
+      "title": "XC800 A-family (automotive)",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/xc800-a-family-automotive",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "8b7add8fc6959300",
+      "title": "XC800 I-family (industrial and multimarket)",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/xc800-i-family-industrial-multimarket",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d0c344e1094a2a77",
+      "title": "XE166 family (industrial)",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/8-bit-16-bit/xe166-family-industrial",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c863f8c027ba792f",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/other-legacy-mcus",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "dede832d61a24be6",
+      "title": "8-bit F²MC new 8FX microcontroller (MCU) families",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/other-legacy-mcus/8-bit-fmc-new-8fx-mcu-portfolio",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0397ae4a3092bca8",
+      "title": "AUDO family",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/other-legacy-mcus/audo-family",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d58b78305788931b",
+      "title": "FR60 family",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/other-legacy-mcus/fr60-family",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f378d479debc538b",
+      "title": "FR81S family",
+      "link": "https://www.infineon.com/products/microcontroller/legacy/other-legacy-mcus/fr81s-family",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5a98337e3b90b7e9",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e996032a555019d7",
+      "title": "FM0+ 32-bit Arm® Cortex®-M0+ microcontroller (MCU) families",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm0-plus-32-bit-arm-cortex-m0-plus",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b72d287ce61b46c6",
+      "title": "FM3 32-bit Arm® Cortex®-M3 microcontroller (MCU) families",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm3-32-bit-arm-cortex-m3",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4937019ee42dddcb",
+      "title": "FM4 32-bit Arm® Cortex®-M4 microcontroller (MCU) families",
+      "link": "https://www.infineon.com/products/microcontroller/32-bit-fm-arm-cortex-microcontroller/fm4-32-bit-arm-cortex-m4",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "63d94064bac551ea",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/sensing-controller",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "81a9cf23a43477c9",
+      "title": "CAPSENSE™ controllers",
+      "link": "https://www.infineon.com/products/microcontroller/sensing-controller/capsense-controllers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9f2ba01cd463f50e",
+      "title": "MOTIX™ motor control SoCs/SIPs",
+      "link": "https://www.infineon.com/products/microcontroller/motor-control-socs",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3b5e87d40e46de29",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/microcontroller/motor-control-socs",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "667161c36d373c13",
+      "title": "BDC motor control SoCs",
+      "link": "https://www.infineon.com/products/microcontroller/motor-control-socs/bdc-socs",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3955ac15b9a519d0",
+      "title": "BLDC motor control SoCs/SiPs",
+      "link": "https://www.infineon.com/products/microcontroller/motor-control-socs/bldc-socs",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4b60771f5433c988",
+      "title": "Motor Control SoCs/SiPs with driver",
+      "link": "https://www.infineon.com/products/microcontroller/motor-control-socs/driver",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1ff049318eeaf00c",
+      "title": "Motor control SoCs/SiPs with MOSFETs",
+      "link": "https://www.infineon.com/products/microcontroller/motor-control-socs/mosfets-integrated",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0848c6de5f860a9a",
+      "title": "AC-DC power conversion",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e78bc90553e6248c",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "fee28b8aed408ae1",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-integrated-power-stage-coolset",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a3eb95792417f0ed",
+      "title": "CoolSET™ System in Package (SiP)",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-integrated-power-stage-coolset/coolset-sip",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0fc60c29d5f879da",
+      "title": "CoolSET™ PWM",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-integrated-power-stage-coolset/coolset-pwm",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ba548925b51af222",
+      "title": "CoolSET™ Switch",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-integrated-power-stage-coolset/coolset-switch",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "98cb1f0b816d8581",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "54d6a7fb15206fa8",
+      "title": "Battery charging ICs",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/battery-charging-ic",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "015e0c0d932a963e",
+      "title": "Digital PFC + half-bridge/LLC combo ICs",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/digital-pfc-plus-llc-combo-ic",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c77edcaa9677722b",
+      "title": "Half-bridge and LLC controller",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/llc-resonant-mode-controller",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "fea3c98273af9ccd",
+      "title": "Hybrid flyback ICs",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/hybrid-flyback-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "bfd293b61d57c90f",
+      "title": "PFC-CCM (continuous conduction mode) ICs",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/pfc-ccm-continuous-conduction-mode-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f330382ab811e791",
+      "title": "Synchronous rectification ICs",
+      "link": "https://www.infineon.com/products/power/ac-dc-power-conversion/ac-dc-pwm-pfc-controller/synchronous-rectification-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "deac0eea490416dd",
+      "title": "Automotive conventional powertrain ICs",
+      "link": "https://www.infineon.com/products/power/automotive-conventional-powertrain-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "fbbbbca0104d35d4",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/automotive-conventional-powertrain-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6b6e2c4cc449d6bb",
+      "title": "Alternator regulator",
+      "link": "https://www.infineon.com/products/power/automotive-conventional-powertrain-ics/alternator-regulator",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "df330a341e3bbd7f",
+      "title": "Constant current control IC for transmission",
+      "link": "https://www.infineon.com/products/power/automotive-conventional-powertrain-ics/constant-current-control-ic-for-transmission",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9bd05f8bab20b142",
+      "title": "Engine management IC",
+      "link": "https://www.infineon.com/products/power/automotive-conventional-powertrain-ics/engine-management-ic",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4273619239e33ac4",
+      "title": "Class D audio amplifier ICs",
+      "link": "https://www.infineon.com/products/power/class-d-audio-amplifier-ic",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "8e636c5aef1a2a0f",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/class-d-audio-amplifier-ic",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a23d29578feecd27",
+      "title": "Discrete Class-D audio amplifier ICs",
+      "link": "https://www.infineon.com/products/power/class-d-audio-amplifier-ic/discrete-class-d-audio-amplifier-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4957fdb48fd026a0",
+      "title": "Integrated class D audio amplifier ICs",
+      "link": "https://www.infineon.com/products/power/class-d-audio-amplifier-ic/integrated-class-d-audio-amplifier-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "cbd780c226ff26d1",
+      "title": "Contactless power and sensing ICs",
+      "link": "https://www.infineon.com/products/power/contactless-power-sensing-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "2860a0122c359aa8",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/contactless-power-sensing-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4620b1546d10740a",
+      "title": "NFC tag controllers",
+      "link": "https://www.infineon.com/products/power/contactless-power-sensing-ics/nfc-tag-side-controllers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "87d5589c280a4c70",
+      "title": "NFC wireless configuration IC with PWM output",
+      "link": "https://www.infineon.com/products/power/led-driver-ics/nfc-pwm-configuration-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e3ee17d66a2f4292",
+      "title": "DC-DC converters",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f0415bdb324d1f73",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5e6ae4b55fde6bad",
+      "title": "Digital multiphase controllers",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/digital-multiphase-controllers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "05b315ef30da2f2b",
+      "title": "Digital power controllers",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/digital-power-controllers",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "db419223731227fd",
+      "title": "Integrated POL voltage regulators",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/integrated-pol-voltage-regulators",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "f284541d22869499",
+      "title": "Integrated smart power stages",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/integrated-power-stages",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b9271dc3ab02ce34",
+      "title": "High density power modules",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/high-density-power-modules",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4cb0a09517b16f9c",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/switching-regulators",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e551ccead51af19f",
+      "title": "OPTIREG™ switcher",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/switching-regulators/optireg-switchers-automotive",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ab5169a79cc67a7f",
+      "title": "High Density IBC modules",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/high-density-ibc-modules",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ff26d4490e160471",
+      "title": "Switching regulators for industrial/consumer",
+      "link": "https://www.infineon.com/products/power/dc-dc-converters/switching-regulators-for-industrial-consumer",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "aec0200d26f80137",
+      "title": "Diodes and thyristors (Si/SiC)",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a9389a4c75212871",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0cf2a8bb36d7bcce",
+      "title": "Bridge rectifiers & AC switches",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/bridge-rectifier-ac-switches",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "81fb16592357373a",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "bb05b16f5b12a46d",
+      "title": "CoolSiC™ Schottky diodes 1200 V G5",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/1200v-g5",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "2112f679ee399ea3",
+      "title": "CoolSiC™ Schottky Diodes 2000 V G5",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/2000v-g5",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3d53d84e37b97be1",
+      "title": "CoolSiC™ Schottky diodes 650 V G5",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/650v-g5-and-g6",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "e55e5d668aca8b8d",
+      "title": "Diode bare dies",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/diode-bare-dies",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "78736370acbd8fb6",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "a0dad642a0f85751",
+      "title": "600 V/1200 V ultra-soft diodes",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/600v-1200v-ultra-soft",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "5ba1b83ea088f9e3",
+      "title": "650 V Rapid 1 and Rapid 2",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/650v-rapid-1-and-rapid-2",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "1c2de37058f07603",
+      "title": "650 V/1200 V Emitter Controlled 7",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/650-v-1200-v-emitter-controlled-7",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "7eb24ac667344c90",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-modules",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "489fc9a9c1a29c83",
+      "title": "Gate leads for modules",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-modules/gate-leads-for-modules",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "6aa05d5006f53446",
+      "title": "Thyristor soft starter modules",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-soft-starter-modules",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "98eb2c47a8b84143",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "70519d1d7a4f1288",
+      "title": "Accessories",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/accessories",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3e9ab2fe36813cf6",
+      "title": "Diode discs",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/diode-discs",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ab66b9fdd9084ead",
+      "title": "Housingless welding diodes",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/welding-diodes",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "abc6c2d0032eb993",
+      "title": "Thyristor Discs",
+      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/thyristor-discs",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "15d8522b1823efc5",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/efuses",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "036d3ec056b28598",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/efuses/automotive",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "4b3a7f577e8c1bef",
+      "title": "EiceDRIVER™ APD gate driver ICs | Automotive power distribution",
+      "link": "https://www.infineon.com/products/power/gate-driver-ics/automotive/eicedriver-apd-power-distribution",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "b3b9804155dade07",
+      "title": "SPOC™ Wire Guard 12V | Automotive eFuse with SPI",
+      "link": "https://www.infineon.com/products/power/efuses/automotive/spoc-wire-guard-12v-automotive",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "bb891499091f6205",
+      "title": "PROFET™ Wire Guard 12V | Automotive eFuse",
+      "link": "https://www.infineon.com/products/power/efuses/automotive/profet-wire-guard-12v-automotive",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "64a41b482b5c885c",
+      "title": "Gallium nitride (GaN)",
+      "link": "https://www.infineon.com/products/power/gallium-nitride",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "d1a3207e7f9436ea",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/gallium-nitride",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c8c1fe27104dfd48",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3d8dc97bb5ca1f3d",
+      "title": "High-voltage GaN bidirectional switches",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches/high-voltage-gan-bidirectional-switches",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "069a29757fe018a6",
+      "title": "Medium-voltage GaN bidirectional switches",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches/medium-voltage-gan-bidirectional-switches",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "3e4b54bb2a95eaf9",
+      "title": "GaN smart",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-smart",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "c1c4915e617536b6",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gallium-nitride-transistor",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0637188d7670c8db",
+      "title": "Medium-voltage GaN transistors",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gallium-nitride-transistor/medium-voltage-gan-transistors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "9c7b3dfa5c9cbc64",
+      "title": "High-voltage GaN transistors",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gallium-nitride-transistor/high-voltage-gan-transistors",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "0c330d6c159a7c53",
+      "title": "GaN with integrated driver",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-with-integrated-driver",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "03d66a9da102d0b6",
+      "title": "GaN bare dies",
+      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-bare-dies",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "ba42bdb4b50a517a",
+      "title": "Gate Driver ICs",
+      "link": "https://www.infineon.com/products/power/gate-driver-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "2b3c94a485b23d69",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/gate-driver-ics",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "58f96fc17fc8e0a1",
+      "title": "Overview",
+      "link": "https://www.infineon.com/products/power/gate-driver-ics/automotive",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    },
+    {
+      "id": "091383251c88484e",
+      "title": "EiceDRIVER™ isolated gate driver ICs for EV applications",
+      "link": "https://www.infineon.com/products/power/gate-driver-ics/automotive/high-voltage-xev-applications",
+      "source": "https://www.infineon.com",
+      "company": "Infineon",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-29T20:54:07+00:00"
+    }
+  ]
 }
