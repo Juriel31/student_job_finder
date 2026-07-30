@@ -1,6 +1,665 @@
 {
   "items": [
     {
+      "id": "6250c803e169922a",
+      "title": "Services",
+      "link": "https://racyics.de/#services",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "fb31c94be1548ce8",
+      "title": "Design Services",
+      "link": "https://racyics.de/services/design-services/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "35bed6b971943955",
+      "title": "Foundry Access",
+      "link": "https://racyics.de/services/foundry-access/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "3937e0edcb24a3a1",
+      "title": "Custom IP",
+      "link": "https://racyics.de/services/custom-ip/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "b41d6f1283700e0e",
+      "title": "Turnkey Solutions",
+      "link": "https://racyics.de/services/turnkey-solutions/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "aa92b0cb97bc88df",
+      "title": "IC Packaging",
+      "link": "https://racyics.de/services/package-service/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "ce743a785a33ec04",
+      "title": "About Us",
+      "link": "https://racyics.de/#company",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "9965fb8de683e3e1",
+      "title": "Overview",
+      "link": "https://racyics.de/about-us/overview/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "8c0c1b34a87e03b3",
+      "title": "Research Projects",
+      "link": "https://racyics.de/about-us/research_projects/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "b1aab2f5460bcbe9",
+      "title": "Products",
+      "link": "https://racyics.de/#products",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "1c7dcbb47e368886",
+      "title": "Racyics® ABX Platform",
+      "link": "https://racyics.de/products/abx-ip-platform/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "d9f3c1ddc6301196",
+      "title": "makeChip",
+      "link": "https://makechip.design",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "ca85bf5d0153a9f4",
+      "title": "Your Benefits",
+      "link": "https://racyics.de/career/benefits/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "f43e124f7d5d8441",
+      "title": "Open Positions",
+      "link": "https://racyics.de/career/jobs/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "7c8555b5f75ba369",
+      "title": "Contact Us",
+      "link": "https://racyics.de/contact-us/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "4356e9e1df2852c7",
+      "title": "Your Career at Racyics",
+      "link": "https://racyics.de/career/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "b541cce298d3a3d6",
+      "title": "jobs@racyics.com",
+      "link": "mailto:jobs@racyics.com",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "f7b0a5990cf62fdb",
+      "title": "> Analog & Mixed-Signal Design Engineer",
+      "link": "https://racyics.de/career/jobs/analog-mixed-signal-design-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "b66d98ca8e6ccfe6",
+      "title": "> DFT Architect / Lead",
+      "link": "https://racyics.de/career/jobs/dft-architect/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "8ebe66c4fe5d0449",
+      "title": "> Digital Design Engineer",
+      "link": "https://racyics.de/career/jobs/digital-design-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "e5959cb02337371a",
+      "title": "> SoC Physical Design Engineer",
+      "link": "https://racyics.de/career/jobs/https-racyics-de-career-jobs-soc-physical-design-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "b32a60fdf645f1b7",
+      "title": "> IC Package Design Engineer",
+      "link": "https://racyics.de/job-offer-ic-package-design-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "d4bf0d24e727f5e3",
+      "title": "> Senior EDA / ASIC CAD Engineer",
+      "link": "https://racyics.de/career/jobs/senior-eda-asic-cad-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "1a6b5faa4a4f0fdc",
+      "title": "> Senior IC Validation Engineer",
+      "link": "https://racyics.de/career/jobs/senior-ic-validation/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "b0e8d78dc1a2aa8d",
+      "title": "> Senior Power Integrity / EMIR Engineer",
+      "link": "https://racyics.de/career/jobs/senior-power-integrity-emir-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "379720cea47b3758",
+      "title": "> Senior/Principal DFT Engineer",
+      "link": "https://racyics.de/career/jobs/senior-dft-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "5a5c3329ebcc57a5",
+      "title": "> Senior/Principal Digital Design Engineer",
+      "link": "https://racyics.de/career/jobs/senior-digital-design-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "d97211fe35a6c362",
+      "title": "> Senior/Principal Analog Mixed-Signal Design Engineer",
+      "link": "https://racyics.de/career/jobs/senior-analog-mixed-signal-design-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "f4858229d60503c7",
+      "title": "> Senior/Principal SoC Physical Design Engineer",
+      "link": "https://racyics.de/career/jobs/senior-soc-physical-design-engineer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "9aa3d0c78837ab63",
+      "title": "> Working Student – Hardware Design",
+      "link": "https://racyics.de/career/jobs/internship-working-student-thesis-student-hardware-design/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "working_student"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "ce61dc85a6d6e6d9",
+      "title": "> W erkstudent: in ( m/ w/d) – Hardware Design",
+      "link": "https://racyics.de/career/jobs/werksstudent-hardware-design/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "de87ccc9a1d38b7d",
+      "title": "> Working Student/Internship – Analog & Mixed-Signal Design Flow",
+      "link": "https://racyics.de/career/jobs/internship-analog-mixed-signal-design-flow/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "working_student",
+        "internship"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "44029b542cf6f0ac",
+      "title": "> Working Student – Business Development",
+      "link": "https://racyics.de/career/jobs/working-student-business-development/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "working_student"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "4a607842c29a60ca",
+      "title": "> Working Student – Chiplet Channel Simulation",
+      "link": "https://racyics.de/career/jobs/working-student-chiplet-channel-simulation/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "working_student"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "e10d8123cf2e9879",
+      "title": "> Senior Project Manager SoC Design",
+      "link": "https://racyics.de/career/jobs/senior-project-manager-soc-design/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "61f0379b44639728",
+      "title": "> Team Lead Analog & Mixed-Signal IC Design",
+      "link": "https://racyics.de/career/jobs/team-lead-analog-mixed-signal-ic-design/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "55e84197f63acb4e",
+      "title": "> Team Lead Digital Design & Verification",
+      "link": "https://racyics.de/career/jobs/teamlead-digital-design-verification/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "d80309860bd04be7",
+      "title": "> Team Lead Physical Implementation",
+      "link": "https://racyics.de/career/jobs/team-lead-physical-implementation/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "c09ed5abb342ff62",
+      "title": "> Marketing Specialist – Graphic Design and Content Creation",
+      "link": "https://racyics.de/career/jobs/marketing-specialist/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "fa726645d84b047f",
+      "title": "> Working Student – Marketing",
+      "link": "https://racyics.de/career/jobs/working-student-marketing/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "working_student"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "2a124ec70f7fc1ed",
+      "title": "> Werkstudent:in (m/w/d) im Bereich Marketing",
+      "link": "https://racyics.de/career/jobs/werksstudent-marketing/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "working_student"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "3b2943728a3f25bf",
+      "title": "Questions?",
+      "link": "mailto:jobs@racyics.de",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "516ba4674db8c510",
+      "title": "contact@racyics.com",
+      "link": "mailto:contact@racyics.com",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "697b48f3ce697052",
+      "title": "www.racyics.com",
+      "link": "https://www.racyics.com",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "6505fcfd667ff748",
+      "title": "Disclaimer",
+      "link": "https://racyics.de/disclaimer/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "611f9610c4c78c9a",
+      "title": "Datenschutzerklärung",
+      "link": "https://racyics.de/data-protection/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
+      "id": "2aa6217ffc3c3289",
+      "title": "keyboard_arrow_up",
+      "link": "https://racyics.de/career/jobs/",
+      "source": "https://racyics.de/career/jobs/",
+      "company": "Racyics",
+      "matched_keywords": [
+        "(any)"
+      ],
+      "job_types": [
+        "unspecified"
+      ],
+      "first_seen": "2026-07-30T08:57:21+00:00"
+    },
+    {
       "id": "452404f436d31a24",
       "title": "LED drivers (electric two- & three-wheelers)",
       "link": "https://www.infineon.com/application/automotive-led-drivers-light-electric-vehicles",
@@ -4932,664 +5591,6 @@
       "id": "05b315ef30da2f2b",
       "title": "Digital power controllers",
       "link": "https://www.infineon.com/products/power/dc-dc-converters/digital-power-controllers",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "db419223731227fd",
-      "title": "Integrated POL voltage regulators",
-      "link": "https://www.infineon.com/products/power/dc-dc-converters/integrated-pol-voltage-regulators",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "f284541d22869499",
-      "title": "Integrated smart power stages",
-      "link": "https://www.infineon.com/products/power/dc-dc-converters/integrated-power-stages",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "b9271dc3ab02ce34",
-      "title": "High density power modules",
-      "link": "https://www.infineon.com/products/power/dc-dc-converters/high-density-power-modules",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "4cb0a09517b16f9c",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/dc-dc-converters/switching-regulators",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "e551ccead51af19f",
-      "title": "OPTIREG™ switcher",
-      "link": "https://www.infineon.com/products/power/dc-dc-converters/switching-regulators/optireg-switchers-automotive",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "ab5169a79cc67a7f",
-      "title": "High Density IBC modules",
-      "link": "https://www.infineon.com/products/power/dc-dc-converters/high-density-ibc-modules",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "ff26d4490e160471",
-      "title": "Switching regulators for industrial/consumer",
-      "link": "https://www.infineon.com/products/power/dc-dc-converters/switching-regulators-for-industrial-consumer",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "aec0200d26f80137",
-      "title": "Diodes and thyristors (Si/SiC)",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "a9389a4c75212871",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "0cf2a8bb36d7bcce",
-      "title": "Bridge rectifiers & AC switches",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/bridge-rectifier-ac-switches",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "81fb16592357373a",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "bb05b16f5b12a46d",
-      "title": "CoolSiC™ Schottky diodes 1200 V G5",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/1200v-g5",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "2112f679ee399ea3",
-      "title": "CoolSiC™ Schottky Diodes 2000 V G5",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/2000v-g5",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "3d53d84e37b97be1",
-      "title": "CoolSiC™ Schottky diodes 650 V G5",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/coolsic-schottky-diodes/650v-g5-and-g6",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "e55e5d668aca8b8d",
-      "title": "Diode bare dies",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/diode-bare-dies",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "78736370acbd8fb6",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "a0dad642a0f85751",
-      "title": "600 V/1200 V ultra-soft diodes",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/600v-1200v-ultra-soft",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "5ba1b83ea088f9e3",
-      "title": "650 V Rapid 1 and Rapid 2",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/650v-rapid-1-and-rapid-2",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "1c2de37058f07603",
-      "title": "650 V/1200 V Emitter Controlled 7",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/silicon-diodes/650-v-1200-v-emitter-controlled-7",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "7eb24ac667344c90",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-modules",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "489fc9a9c1a29c83",
-      "title": "Gate leads for modules",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-modules/gate-leads-for-modules",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "6aa05d5006f53446",
-      "title": "Thyristor soft starter modules",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-soft-starter-modules",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "98eb2c47a8b84143",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "70519d1d7a4f1288",
-      "title": "Accessories",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/accessories",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "3e9ab2fe36813cf6",
-      "title": "Diode discs",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/diode-discs",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "ab66b9fdd9084ead",
-      "title": "Housingless welding diodes",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/welding-diodes",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "abc6c2d0032eb993",
-      "title": "Thyristor Discs",
-      "link": "https://www.infineon.com/products/power/diodes-thyristors/thyristor-diode-discs/thyristor-discs",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "15d8522b1823efc5",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/efuses",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "036d3ec056b28598",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/efuses/automotive",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "4b3a7f577e8c1bef",
-      "title": "EiceDRIVER™ APD gate driver ICs | Automotive power distribution",
-      "link": "https://www.infineon.com/products/power/gate-driver-ics/automotive/eicedriver-apd-power-distribution",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "b3b9804155dade07",
-      "title": "SPOC™ Wire Guard 12V | Automotive eFuse with SPI",
-      "link": "https://www.infineon.com/products/power/efuses/automotive/spoc-wire-guard-12v-automotive",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "bb891499091f6205",
-      "title": "PROFET™ Wire Guard 12V | Automotive eFuse",
-      "link": "https://www.infineon.com/products/power/efuses/automotive/profet-wire-guard-12v-automotive",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "64a41b482b5c885c",
-      "title": "Gallium nitride (GaN)",
-      "link": "https://www.infineon.com/products/power/gallium-nitride",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "d1a3207e7f9436ea",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/gallium-nitride",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "c8c1fe27104dfd48",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "3d8dc97bb5ca1f3d",
-      "title": "High-voltage GaN bidirectional switches",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches/high-voltage-gan-bidirectional-switches",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "069a29757fe018a6",
-      "title": "Medium-voltage GaN bidirectional switches",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-bidirectional-switches/medium-voltage-gan-bidirectional-switches",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "3e4b54bb2a95eaf9",
-      "title": "GaN smart",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-smart",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "c1c4915e617536b6",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gallium-nitride-transistor",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "0637188d7670c8db",
-      "title": "Medium-voltage GaN transistors",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gallium-nitride-transistor/medium-voltage-gan-transistors",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "9c7b3dfa5c9cbc64",
-      "title": "High-voltage GaN transistors",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gallium-nitride-transistor/high-voltage-gan-transistors",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "0c330d6c159a7c53",
-      "title": "GaN with integrated driver",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-with-integrated-driver",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "03d66a9da102d0b6",
-      "title": "GaN bare dies",
-      "link": "https://www.infineon.com/products/power/gallium-nitride/gan-bare-dies",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "ba42bdb4b50a517a",
-      "title": "Gate Driver ICs",
-      "link": "https://www.infineon.com/products/power/gate-driver-ics",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "2b3c94a485b23d69",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/gate-driver-ics",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "58f96fc17fc8e0a1",
-      "title": "Overview",
-      "link": "https://www.infineon.com/products/power/gate-driver-ics/automotive",
-      "source": "https://www.infineon.com",
-      "company": "Infineon",
-      "matched_keywords": [
-        "(any)"
-      ],
-      "job_types": [
-        "unspecified"
-      ],
-      "first_seen": "2026-07-29T20:54:07+00:00"
-    },
-    {
-      "id": "091383251c88484e",
-      "title": "EiceDRIVER™ isolated gate driver ICs for EV applications",
-      "link": "https://www.infineon.com/products/power/gate-driver-ics/automotive/high-voltage-xev-applications",
       "source": "https://www.infineon.com",
       "company": "Infineon",
       "matched_keywords": [
