@@ -6,15 +6,20 @@ no server required, just GitHub Actions + GitHub Pages.
 
 ## How it works
 
-- `config/sources.csv` — one row per company/portal: `company`, `url`,
-  `keywords`. `config/sources.csv` already has all 73 companies you listed,
-  one per row — you just need to paste each company's careers-page URL into
-  the `url` column (see "About the company list" below for why I couldn't
-  fill these in myself). Example of a filled-in row:
+- `config/sources.csv` — one row per company/portal: `company`, `location`,
+  `url`, `keywords`. All 74 companies are pre-loaded (including
+  Maschinenfabrik Reinhausen GmbH), with the location info you gave me kept
+  as a reference column (it isn't used by the scraper, it's just there so
+  you can see everything in one place). I've already filled in the `url`
+  column for the 5 companies where you gave me a direct link:
+  **Devritech, Racyics, Infineon, Teleconnect, Chipglobe.** The other 69
+  still have an empty `url` cell for you to fill in — see "About the company
+  list" below.
+
+  Example of a fully filled-in row:
   ```csv
-  company,url,keywords
-  Infineon,https://careers.infineon.com/germany,"fpga, asic"
-  Rohde & Schwarz,https://careers.rohde-schwarz.com,
+  company,location,url,keywords
+  Infineon,"Dresden, other",https://www.infineon.com,"fpga, asic"
   ```
   - `keywords` is optional. Leave it blank to pull in *every* listing from
     that company's page (you can still narrow down using the employment-type
@@ -31,19 +36,49 @@ no server required, just GitHub Actions + GitHub Pages.
   description, not the listing title, so expect some postings to land here
   even when they do have a clear type.
 
-- `.github/workflows/check-jobs.yml` — runs every 15 minutes (also runs
-  automatically any time you edit `sources.csv`, and can be triggered
-  manually from the **Actions** tab).
+- `.github/workflows/check-jobs.yml` — runs every **5 minutes** (GitHub's
+  practical floor for scheduled workflows — see "Why not faster than 5
+  minutes?" below), also runs automatically any time you edit
+  `sources.csv`, and can be triggered manually from the **Actions** tab.
 
 - `scripts/check_jobs.py` — visits each portal, pulls every link on the page,
   and checks whether the link text contains any of your keywords (matching
   is case-insensitive and substring-based, so `"design"` will also catch
-  `"Senior Product Designer"`). New matches are written to `docs/data/`.
+  `"Senior Product Designer"`). Retries transient network errors twice
+  before marking a source as down. New matches are written to `docs/data/`.
+  - **Quiet by design**: if a scan finds no new postings and no source's
+    health status changed, it writes nothing and the workflow commits
+    nothing that run. The board only changes when there's something real to
+    show — no flicker, no noise in your git history.
+  - **5-day retention**: a matched posting drops off the board 5 days after
+    it was first detected (still genuinely new postings always get the
+    "NEW" badge; this just keeps the list from growing forever).
 
 - `docs/index.html` — the dashboard, served by GitHub Pages, reads
   `docs/data/*.json` and displays matches, a live countdown to the next
   scan, and per-source status (so you can see if a portal is blocking the
   scan or timing out).
+
+### Why not faster than 5 minutes?
+
+GitHub's scheduled Actions don't run more often than every 5 minutes even if
+you write a tighter cron expression, and can run a little late under load —
+there's no true "instant" option without a webhook, which job boards don't
+offer. 5 minutes is the practical ceiling for "immediate" on this
+architecture.
+
+### Reliability additions (since this runs unattended for months)
+
+- **Retry with backoff** — a single flaky response no longer marks a source
+  as broken; the script retries twice (4s apart) before giving up.
+- **No overlapping runs** — a concurrency lock stops two scans from ever
+  running at once and racing each other on the git push.
+- **Safe push** — the workflow rebases against the latest commit before
+  pushing, in case a manual run and a scheduled run land close together.
+- Worth adding later if you want it: a push notification (Telegram/email/
+  ntfy.sh) the moment a genuinely new match is found, and/or an alert if a
+  source has been erroring for several scans in a row (rather than just a
+  status dot you have to notice yourself).
 
 ## Setup (10 minutes)
 
@@ -73,12 +108,21 @@ That's it — from then on it checks every 15 minutes on its own.
 ## About the company list — one thing I couldn't do
 
 I don't currently have web browsing/search enabled in this conversation, so
-I wasn't able to look up and verify the actual careers-page URL for each of
-your 73 companies — guessing them would risk giving you broken or wrong
-links. `config/sources.csv` has every company name pre-filled with an empty
-`url` column for exactly this reason.
+I wasn't able to look up and verify the actual careers-page URL for every
+company — guessing them would risk giving you broken or wrong links. I
+filled in the 5 URLs you gave me directly; the rest are blank for you (or
+me, once search is on) to fill in.
 
-Two ways to finish this:
+**One more thing worth knowing about the 5 I did fill in:** some of those
+(e.g. `infineon.com`) are the company's general homepage, not necessarily
+their specific job-listings page. The scraper works best pointed directly at
+a page that actually lists open roles (often something like
+`/careers`, `/karriere`, or `/jobs`) — scanning a homepage may pull in mostly
+navigation links and miss the postings, or match nothing at all. Worth
+clicking into each site and grabbing the URL of their actual jobs page
+before your first scan, especially for the bigger companies.
+
+Two ways to finish the rest:
 1. **Fastest** — paste each company's careers-page URL into the sheet
    yourself (this was your original plan anyway).
 2. **Turn on web search** in this chat and ask me to look up the URLs — I
@@ -94,6 +138,14 @@ column to add a German city or "Germany" as one of the terms (e.g.
 `"fpga, dresden"`), since location isn't reliably reflected in the link text
 alone otherwise.
 
+- **Posted date** — each row now shows the date the posting itself claims to
+  have gone up (parsed from a `<time>` tag or common date phrasing near the
+  listing, EN + DE, including relative phrasing like "3 days ago" / "vor 2
+  Tagen"). This is separate from "detected", which is when *our* scan first
+  found it — a posting can be a week old the first time we happen to catch
+  it. If the page doesn't expose a date anywhere near the listing, it shows
+  **"No date"** rather than guessing.
+
 ## Notes and limitations (read before relying on this)
 
 - **This is link-scraping, not a real job-board API.** It works well for
@@ -102,9 +154,9 @@ alone otherwise.
   actively block scrapers (LinkedIn and Indeed are the notable ones), may
   return no results or get blocked. If a portal shows an error status on
   the dashboard, that's usually why.
-- **"Immediate" means within the scan interval.** 15 minutes is the fastest
-  practical schedule on GitHub's free tier; a webhook-based instant push
-  isn't available because job boards don't offer that.
+- **"Immediate" means within 5 minutes.** That's the fastest practical
+  schedule on GitHub's free tier; a webhook-based instant push isn't
+  available because job boards don't offer that.
 - **No push notifications are wired up** — per your preference, matches
   only show up on the web dashboard. If you ever want a ping (Telegram,
   email, etc.) the moment a match is found, that's a small addition to

@@ -275,7 +275,7 @@
   </div>
 
 <script>
-const SCAN_INTERVAL_MIN = 15;
+const SCAN_INTERVAL_MIN = 5;
 let allItems = [];
 let newIds = new Set();
 let activeType = 'all';
@@ -342,11 +342,12 @@ function render(){
     const jobTypes = item.job_types && item.job_types.length ? item.job_types : ['unspecified'];
     const typeBadges = jobTypes.map(t=>`<span class="type-badge ${t}">${TYPE_LABELS[t] || t}</span>`).join(' ');
     const companyLabel = item.company ? item.company : hostOf(item.source);
+    const dateLabel = item.date_posted || 'No date';
     row.innerHTML = `
       <div class="time">${fmtTime(item.first_seen)}</div>
       <div class="info">
         <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
-        <div class="meta">${companyLabel} · ${timeAgo(item.first_seen)}</div>
+        <div class="meta">${companyLabel} · detected ${timeAgo(item.first_seen)} · posted: ${dateLabel}</div>
         <div>${typeBadges}</div>
       </div>
       <div class="kw">${item.matched_keywords.filter(k=>k!=='(any)').join(', ')}</div>
@@ -369,22 +370,23 @@ function renderStatus(meta){
   });
   document.getElementById('tracking-line').textContent =
     (meta.sources || []).length
-      ? `tracking ${meta.sources.length} portal${meta.sources.length===1?'':'s'} · last scan ${timeAgo(meta.last_run)}`
+      ? `tracking ${meta.sources.length} portal${meta.sources.length===1?'':'s'} · last update ${timeAgo(meta.last_run)} · scanning every ${SCAN_INTERVAL_MIN}m`
       : 'no portals configured yet';
 }
 
-let nextScanAt = null;
 function tickClock(){
   const clockEl = document.getElementById('clock');
-  if(!nextScanAt){ clockEl.textContent = '--:--:--'; return; }
-  const diff = nextScanAt.getTime() - Date.now();
-  if(diff <= 0){
+  const now = new Date();
+  const msPerCycle = SCAN_INTERVAL_MIN * 60000;
+  const msIntoCycle = now.getTime() % msPerCycle;
+  const msLeft = msPerCycle - msIntoCycle;
+  if(msLeft < 5000){
     clockEl.textContent = 'scanning…';
     clockEl.classList.add('scanning');
     return;
   }
   clockEl.classList.remove('scanning');
-  const totalSec = Math.floor(diff/1000);
+  const totalSec = Math.floor(msLeft/1000);
   const m = Math.floor(totalSec/60).toString().padStart(2,'0');
   const s = (totalSec%60).toString().padStart(2,'0');
   clockEl.textContent = `00:${m}:${s}`;
@@ -402,10 +404,6 @@ async function loadData(){
 
     allItems = matches.items || [];
     newIds = new Set(meta.new_ids || []);
-
-    if(meta.last_run){
-      nextScanAt = new Date(new Date(meta.last_run).getTime() + SCAN_INTERVAL_MIN*60000);
-    }
 
     render();
     renderStatus(meta);

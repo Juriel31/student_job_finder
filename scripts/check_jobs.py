@@ -15,6 +15,7 @@ import csv
 import hashlib
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -31,7 +32,10 @@ SEEN_PATH = os.path.join(DATA_DIR, "seen.json")
 RUN_META_PATH = os.path.join(DATA_DIR, "run_meta.json")
 
 MAX_MATCHES_KEPT = 400
+RETENTION_DAYS = 5          # postings older than this drop off the board
 REQUEST_TIMEOUT = 20
+REQUEST_RETRIES = 2         # extra attempts on transient network errors
+REQUEST_RETRY_DELAY = 4     # seconds between retries
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (compatible; JobWatchtower/1.0; "
@@ -64,6 +68,53 @@ def classify_job_types(text_lower):
         if any(sig in text_lower for sig in signals)
     ]
     return found or ["unspecified"]
+
+
+# Best-effort "date posted" detection. Career pages don't expose this
+# consistently, so we look for a <time> element first, then fall back to
+# common date phrasing (absolute or relative, EN + DE) in the text around
+# the job link. If nothing matches, the posting is labeled "No date".
+NO_DATE_LABEL = "No date"
+
+DATE_PATTERNS = [
+    re.compile(r"\b\d{4}-\d{2}-\d{2}\b"),                                   # 2026-07-30
+    re.compile(r"\b\d{1,2}\.\d{1,2}\.\d{2,4}\b"),                           # 30.07.2026
+    re.compile(r"\b\d{1,2}/\d{1,2}/\d{2,4}\b"),                             # 07/30/2026
+    re.compile(
+        r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.?\s+"
+        r"\d{1,2},?\s+\d{4}\b", re.IGNORECASE
+    ),                                                                       # July 30, 2026
+    re.compile(
+        r"\b\d{1,2}\.?\s+(Januar|Februar|März|April|Mai|Juni|Juli|August|"
+        r"September|Oktober|November|Dezember)\s+\d{4}\b", re.IGNORECASE
+    ),                                                                       # 30. Juli 2026
+    re.compile(
+        r"\b(vor\s+)?\d+\s*"
+        r"(days?|hours?|weeks?|months?|Tage?n?|Stunden?|Wochen?|Monate?n?)"
+        r"(\s+ago)?\b", re.IGNORECASE
+    ),                                                                       # "3 days ago" / "vor 2 Tagen"
+    re.compile(r"\b(Today|Yesterday|Heute|Gestern)\b", re.IGNORECASE),
+]
+
+
+def find_posted_date(anchor):
+    container = anchor.find_parent(["li", "tr", "article", "div"]) or anchor.parent
+    if container is None:
+        return NO_DATE_LABEL
+
+    time_tag = container.find("time")
+    if time_tag is not None:
+        candidate = (time_tag.get("datetime") or time_tag.get_text(strip=True) or "").strip()
+        if candidate:
+            return candidate
+
+    container_text = container.get_text(" ", strip=True)
+    for pattern in DATE_PATTERNS:
+        match = pattern.search(container_text)
+        if match:
+            return match.group(0).strip()
+
+    return NO_DATE_LABEL
 
 
 def now_iso():
@@ -120,11 +171,21 @@ def check_source(source):
     status = {"url": url, "company": company, "checked_at": now_iso(), "ok": False, "error": None}
     postings = []
 
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-        resp.raise_for_status()
-    except requests.RequestException as e:
-        status["error"] = str(e)[:300]
+    last_error = None
+    resp = None
+    for attempt in range(REQUEST_RETRIES + 1):
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            resp.raise_for_status()
+            last_error = None
+            break
+        except requests.RequestException as e:
+            last_error = e
+            if attempt < REQUEST_RETRIES:
+                time.sleep(REQUEST_RETRY_DELAY)
+
+    if last_error is not None:
+        status["error"] = str(last_error)[:300]
         return postings, status
 
     status["ok"] = True
@@ -153,6 +214,7 @@ def check_source(source):
                 "company": company,
                 "matched_keywords": matched,
                 "job_types": classify_job_types(text_lower),
+                "date_posted": find_posted_date(a),
             }
         )
 
@@ -166,9 +228,12 @@ def main():
     matches = load_json(MATCHES_PATH, {"items": []})
     matches_items = matches.get("items", [])
     matches_by_id = {m["id"]: m for m in matches_items}
+    prev_meta = load_json(RUN_META_PATH, {"sources": []})
+    prev_status_by_url = {s["url"]: s.get("ok") for s in prev_meta.get("sources", [])}
 
     new_ids_this_run = []
     source_statuses = []
+    status_changed = False
 
     if not sources:
         print("No sources configured in config/sources.csv — nothing to check.")
@@ -176,6 +241,8 @@ def main():
     for source in sources:
         postings, status = check_source(source)
         source_statuses.append(status)
+        if prev_status_by_url.get(status["url"]) != status["ok"]:
+            status_changed = True  # a portal went from ok->error or back
         for p in postings:
             if p["id"] in seen_ids:
                 continue
@@ -186,9 +253,25 @@ def main():
         # be polite between requests
         time.sleep(1)
 
-    # Rebuild ordered list, newest first, capped
+    if not new_ids_this_run and not status_changed:
+        # Nothing new to report and every source's health is unchanged —
+        # leave matches.json / seen.json / run_meta.json exactly as they
+        # are so the workflow has nothing to commit this run.
+        print(f"Checked {len(sources)} source(s). No new postings, no status changes — leaving data as is.")
+        return
+
+    # Drop postings older than the retention window, newest first
+    cutoff = datetime.now(timezone.utc).timestamp() - RETENTION_DAYS * 86400
+    def first_seen_ts(m):
+        try:
+            return datetime.fromisoformat(m.get("first_seen", "")).timestamp()
+        except ValueError:
+            return 0
+
     all_items = sorted(
-        matches_by_id.values(), key=lambda m: m.get("first_seen", ""), reverse=True
+        (m for m in matches_by_id.values() if first_seen_ts(m) >= cutoff),
+        key=lambda m: m.get("first_seen", ""),
+        reverse=True,
     )[:MAX_MATCHES_KEPT]
 
     save_json(MATCHES_PATH, {"items": all_items})
